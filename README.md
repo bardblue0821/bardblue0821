@@ -2,7 +2,7 @@
 I'm monkupo, developing and operating WEB applications.
 Mainly using the C/C++, Python, HTML/CSS/PHP for development.
 Currently interested in front-end development.
-Thank you.
+Thank you, kupo!
 
 <p align="left">
   <img alt="Top Langs" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bardblue0821&theme=tokyonight" />
