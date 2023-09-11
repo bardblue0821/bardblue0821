@@ -6,8 +6,3 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bardblue&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-<p align="middle">
-  <img alt="Profile Details Cards" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bardblue0821&theme=tokyonight" />
-  <img alt="Profile Details Cards" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bardblue0821&theme=tokyonight&exclude={exclude}" />
-</p>
