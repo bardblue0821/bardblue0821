@@ -1,13 +1,4 @@
-### Hi there👋
-I'm monkupo, developing and operating WEB applications.
-Mainly using the C/C++, Python, HTML/CSS/PHP for development.
-Currently interested in front-end development.
-Thank you, kupo!
-
 <p align="left">
-  <img alt="Top Langs" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bardblue0821&theme=tokyonight" />
-  <img alt="github stats" height="100px" src="https://github-readme-stats.vercel.app/api?username=bardblue0821&theme=tokyonight&show_icons=true" />
-  <br>
   <a href="https://github.com/yutkat/yutkat/">
     <img src="https://komarev.com/ghpvc/?username=bardblue0821" alt="bardblue0821" />
   </a>
@@ -17,6 +8,17 @@ Thank you, kupo!
   <a href="https://github.com/bardblue0821">
     <img height="20" src="https://img.shields.io/github/followers/bardblue0821?label=follow&logo=github&style=flat" />
   </a>
+</p>
+
+### Hi there👋
+I'm monkupo, developing and operating WEB applications.
+Mainly using the C/C++, Python, HTML/CSS/PHP for development.
+Currently interested in front-end development.
+Thank you, kupo!
+
+<p align="left">
+  <img alt="Top Langs" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bardblue0821&theme=tokyonight" />
+  <img alt="github stats" height="100px" src="https://github-readme-stats.vercel.app/api?username=bardblue0821&theme=tokyonight&show_icons=true" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bardblue0821&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
