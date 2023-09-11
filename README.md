@@ -11,7 +11,7 @@
 </p>
 
 ### Hi there👋
-I'm monkupo, developing and operating WEB applications.
+I'm bardblue, developing and operating WEB applications.
 Mainly using the C/C++, Python, HTML/CSS/PHP for development.
 Currently interested in front-end development.
 Thank you, kupo!
