@@ -7,6 +7,7 @@ Thank you.
 <p align="left">
   <img alt="Top Langs" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bardblue0821&theme=tokyonight" />
   <img alt="github stats" height="100px" src="https://github-readme-stats.vercel.app/api?username=bardblue0821&theme=tokyonight&show_icons=true" />
+  <br>
   <a href="https://github.com/yutkat/yutkat/">
     <img src="https://komarev.com/ghpvc/?username=bardblue0821" alt="bardblue0821" />
   </a>
