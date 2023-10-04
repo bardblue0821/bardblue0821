@@ -11,8 +11,8 @@
 </p>
 
 ### Hi there👋
-I'm bardblue, developing and operating WEB applications.
-Mainly using the C/C++, Python, HTML/CSS/PHP for development.
+I'm bardblue, having begun learning to develope and operate WEB applications.
+Usually using C/C++, Python, and MATLAB for works.
 Currently interested in front-end development.
 Thank you, kupo!
 
