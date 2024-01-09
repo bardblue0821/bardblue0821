@@ -11,10 +11,9 @@
 </p>
 
 ### Hi there👋
-I'm bardblue, having begun learning to develope and operate WEB applications.
+I'm bardblue, having begun learning Laravel and related tech to develop and operate WEB applications.
 Usually using C/C++, Python, and MATLAB for works.
-Currently interested in front-end development.
-Thank you, kupo!
+Thank you!
 
 <p align="left">
   <img alt="Top Langs" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bardblue0821&theme=tokyonight" />
