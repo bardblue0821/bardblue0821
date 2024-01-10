@@ -15,8 +15,11 @@ I'm bardblue, having begun learning Laravel and related tech to develop and oper
 Usually using C/C++, Python, and MATLAB for works.<br>
 Thank you!
 
-<p align="left">
+<p align="center">
   <img alt="Top Langs" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bardblue0821&theme=tokyonight" />
+</p>
+
+<p align="center">
   <img alt="github stats" height="100px" src="https://github-readme-stats.vercel.app/api?username=bardblue0821&theme=tokyonight&show_icons=true" />
 </p>
 
