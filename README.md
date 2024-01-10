@@ -20,7 +20,7 @@ Thank you!
   <img alt="github stats" height="100px" src="https://github-readme-stats.vercel.app/api?username=bardblue0821&theme=tokyonight&show_icons=true" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bardblue0821&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=bardblue0821&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 <p align="center">
   <a href="https://skillicons.dev">
