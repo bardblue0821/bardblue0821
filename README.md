@@ -11,7 +11,7 @@
 </p>
 
 ### Hi there👋
-I'm bardblue, having begun learning Laravel and related tech to develop and operate WEB applications.<br>
+I'm bardblue, began learning Laravel and related tech to develop and operate WEB applications.<br>
 Usually using C/C++, Python, and MATLAB for works.<br>
 Thank you!
 
