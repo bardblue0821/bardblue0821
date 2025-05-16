@@ -2,17 +2,20 @@
   <a href="https://github.com/yutkat/yutkat/">
     <img src="https://komarev.com/ghpvc/?username=bardblue0821" alt="bardblue0821" />
   </a>
-  <a href="http://twitter.com/monkupo">
-    <img height="20" src="https://img.shields.io/twitter/follow/monkupo?label=Twitter&logo=twitter&style=flat" />
-  </a>
   <a href="https://github.com/bardblue0821">
     <img height="20" src="https://img.shields.io/github/followers/bardblue0821?label=follow&logo=github&style=flat" />
   </a>
 </p>
 
-### Hi there👋
-I'm bardblue, began learning Laravel and related tech to develop and operate WEB applications.<br>
-Usually using C/C++, Python, and MATLAB for works.<br>
+### こんにちは！👋
+bardblue です。Web アプリケーション開発に興味があり、Laravel、React/Next.js、AWS の学習を始めました。<br>
+Laravel で VRChat ユーザー向けの体験共有サイトを作成しました。<a href="https://dokoiku-vr.bardblue.com/">DokoIku-VR </a><br>
+普段の業務では、C/C++、Python、MATLAB を使用し、アプリケーション開発を行っています。
+
+### Hi 👋
+I'm bardblue, began learning Laravel, React/Next.js, and related tech to develop and operate WEB applications.<br>
+Here is the one of my portfolios, <a href="https://dokoiku-vr.bardblue.com/">DokoIku-VR </a>, for users enjoying VRChat. <br>
+Experienced C/C++, Python, and MATLAB for works.<br>
 Thank you!
 
 <p align="center">
@@ -24,7 +27,7 @@ Thank you!
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,laravel,html,css,js,php,vite,aws,docker" /><br>
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,matlab," />
+    <img src="https://skillicons.dev/icons?i=laravel,react,next,html,css,js,php,vite" /><br>
+    <img src="https://skillicons.dev/icons?i=git,aws,docker,c,cpp,py,matlab" />
   </a>
 </p>
