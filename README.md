@@ -9,12 +9,14 @@
 
 ### こんにちは！👋
 bardblue です。Web アプリケーション開発に興味があり、Laravel、React/Next.js、AWS の学習を始めました。<br>
+ポートフォリオは <a href="https://bardblue0821.github.io/biography/">こちら</a><br>。
 Laravel で VRChat ユーザー向けの体験共有サイトを作成しました。<a href="https://dokoiku-vr.bardblue.com/">DokoIku-VR </a><br>
-普段の業務では、C/C++、Python、MATLAB を使用し、アプリケーション開発を行っています。
+業務では BtoB アプリケーション開発（C/C++、Python、MATLAB）を行っています。
 
-### Hi 👋
+### Hi! 👋
 I'm bardblue, began learning Laravel, React/Next.js, and related tech to develop and operate WEB applications.<br>
-Here is the one of my portfolios, <a href="https://dokoiku-vr.bardblue.com/">DokoIku-VR </a>, for users enjoying VRChat. <br>
+Here is the one of my portfolio, <a href="https://dokoiku-vr.bardblue.com/">DokoIku-VR </a>, for users enjoying VRChat. <br>
+You can see other applications <a href="https://bardblue0821.github.io/biography/">here</a><br>.
 Experienced C/C++, Python, and MATLAB for works.<br>
 Thank you!
 
