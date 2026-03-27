@@ -21,9 +21,15 @@
 ## 個人開発のポートフォリオ
 - <a href="https://virtualbum.media/">Virtualbum</a>
   - VRChat ユーザー向け画像投稿 SNS
+  - 思い出をみんなで形にしたい
   - Laravel / AWS etc.
 - <a href="https://dokoiku-vr.bardblue.com/">DokoIku-VR </a>
   - VRChat ユーザー向けの体験共有 Web
+  - 次はみんなでどこへ行く？を共有したい
+  - Next.js / Supabase / Cloudflare etc.
+- VRC Calender (開発中・仮称)
+  - VRChat 内グループ・イベントの情報収集と通知
+  - 運営者は広告したい・ユーザーはどんなイベントがあるか知りたい
   - Next.js / Supabase / Cloudflare etc.
 - そのほかは <a href="https://bardblue0821.github.io/biography/">こちら</a>
 
