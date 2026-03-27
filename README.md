@@ -12,8 +12,10 @@
 
 ## 個人開発のポートフォリオ
 - VRChat ユーザー向けが画像投稿 SNS: <a href="https://virtualbum.media/">Virtualbum </a>
+  - Laravel / AWS etc.
 - VRChat ユーザー向けの体験共有 Web: <a href="https://dokoiku-vr.bardblue.com/">DokoIku-VR </a>
-- そのほかは<a href="https://bardblue0821.github.io/biography/">こちら</a>
+  - Next.js / Supabase / Cloudflare etc.
+- そのほかは <a href="https://bardblue0821.github.io/biography/">こちら</a>
 
 <p align="center">
   <a href="https://skillicons.dev">
