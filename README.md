@@ -11,9 +11,11 @@
 - 最近は娘と過ごす時間が癒しです。
 
 ## 個人開発のポートフォリオ
-- VRChat ユーザー向けが画像投稿 SNS: <a href="https://virtualbum.media/">Virtualbum </a>
+- <a href="https://virtualbum.media/">Virtualbum</a>
+  - VRChat ユーザー向け画像投稿 SNS
   - Laravel / AWS etc.
-- VRChat ユーザー向けの体験共有 Web: <a href="https://dokoiku-vr.bardblue.com/">DokoIku-VR </a>
+- <a href="https://dokoiku-vr.bardblue.com/">DokoIku-VR </a>
+  - VRChat ユーザー向けの体験共有 Web
   - Next.js / Supabase / Cloudflare etc.
 - そのほかは <a href="https://bardblue0821.github.io/biography/">こちら</a>
 
