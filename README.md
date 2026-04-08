@@ -24,12 +24,12 @@
 - <a href="https://virtualbum.media/">Virtualbum</a>
   - VRChat ユーザー向け画像投稿 SNS
   - 思い出をみんなで形にしたい
-  - Laravel / AWS etc.
+  - Next.js / Supabase / Cloudflare etc.
 
 - <a href="https://dokoiku-vr.bardblue.com/">DokoIku-VR </a>
   - VRChat ユーザー向けの体験共有 Web
-  - 次はみんなでどこへ行く？を共有したい
-  - Next.js / Supabase / Cloudflare etc.
+  - 次はみんなでどのワールドへ行く？を共有したい
+  - Laravel / AWS etc.
 
 - VRC Calender (開発中・仮称)
   - VRChat 内グループ・イベントの情報収集と通知
