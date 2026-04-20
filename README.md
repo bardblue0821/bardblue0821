@@ -44,7 +44,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,react,next,html,css,js,php,vite" /><br>
+    <img src="https://skillicons.dev/icons?i=next,laravel,vite,react,html,css,js,php" /><br>
     <img src="https://skillicons.dev/icons?i=git,aws,docker,c,cpp,py,matlab" />
   </a>
 </p>
